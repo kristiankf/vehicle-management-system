@@ -3,6 +3,6 @@
 
 <template>
   <main class="bg-red-200">
-    this is the home page hello another one
+    this is the home page
   </main>
 </template>
