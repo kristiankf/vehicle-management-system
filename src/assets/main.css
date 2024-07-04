@@ -1,3 +1,17 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+  .maximum-width {
+    @apply max-w-[1600px] mx-auto px-7;
+  }
+
+  .primary-bg {
+    @apply bg-slate-200;
+  }
+
+  .gray-text {
+    @apply text-gray-500;
+  }
+}

@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <main class="bg-red-200">
-    this is the home page
+  <main class="">
+wassup
   </main>
 </template>
